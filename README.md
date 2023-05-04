@@ -14,6 +14,7 @@ pip install -r requirements.txt
 3. Create an .env file to store the API key
 4. Modify the inputs and prompt according to the usage
 5. Deploy the app on Google Cloud (need to install GCloud SDK: https://cloud.google.com/sdk/docs/install)
+  
   :point_right: login
   ```
   gcloud auth login
